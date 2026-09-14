@@ -73,10 +73,3 @@ IMU and flex-sensor wearables for tracking joint range of motion are an establis
 
 🚧 Early-stage — application phase for SmartX Hackathon 2026. Hardware prototyping and app development in progress ahead of the final round.
 
-## Team
-
-*(add your team members' names and roles here)*
-
-## License
-
-*(add a license if you plan to open-source this, e.g. MIT — optional for a hackathon repo)*
