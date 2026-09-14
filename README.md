@@ -1,6 +1,4 @@
-# smart-rehab-sleeve
-Wearable sleeve that tracks joint movement in real time to guide home physiotherapy exercises
-# Smart Rehabilitation Sleeve 🦾
+# Smart Rehabilitation Sleeve 
 
 **Real-time motion feedback for home physiotherapy — so recovery doesn't stop when the therapist leaves the room.**
 
