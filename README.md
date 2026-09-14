@@ -23,13 +23,13 @@ A wearable sleeve embedded with motion sensors that tracks every repetition of a
 
 | | |
 |---|---|
-| **Tracks** | IMU + flex sensors sewn into the sleeve measure joint angle and movement speed in real time, on the knee, elbow, or wrist. |
+| **Tracks** | IMU + flex sensors sewn into the sleeve measure joint angle and movement speed in real time, on the elbow, wrist, or shoulder. |
 | **Guides** | Instant feedback — light, sound, or app cue — tells the patient if a rep matches the range and pace the therapist prescribed. |
 | **Reports** | Every session syncs to a dashboard the physiotherapist can review remotely, without the patient traveling in. |
 
-## How It Works — Example: Knee Rehabilitation
+## How It Works — Example: Elbow Rehabilitation
 
-The patient performs a prescribed **bend → straighten → bend → straighten** cycle. The sleeve measures joint angle continuously through the cycle, counting reps, checking range of motion, and flagging incomplete or rushed movements.
+The patient performs a prescribed **bend → extend → bend → extend** cycle. The sleeve measures joint angle continuously through the cycle, counting reps, checking range of motion, and flagging incomplete or rushed movements.
 
 Example session output:
 - **Reps completed:** 14 / 15
@@ -64,7 +64,7 @@ IMU and flex-sensor wearables for tracking joint range of motion are an establis
 
 ## Demo Plan
 
-1. **Live wear-test** — a teammate wears the sleeve and performs a knee bend/straighten cycle on stage.
+1. **Live wear-test** — a teammate wears the sleeve and performs an elbow bend/extend cycle on stage.
 2. **Real-time app view** — the companion app shows live angle tracking, rep count, and instant correct/incorrect feedback.
 3. **Therapist dashboard** — session log with adherence, range of motion trend, and flagged reps, as a therapist would see it.
 4. **The pitch close** — tying back to the access gap this solves.
@@ -73,3 +73,10 @@ IMU and flex-sensor wearables for tracking joint range of motion are an establis
 
 🚧 Early-stage — application phase for SmartX Hackathon 2026. Hardware prototyping and app development in progress ahead of the final round.
 
+## Team
+
+*(add your team members' names and roles here)*
+
+## License
+
+*(add a license if you plan to open-source this, e.g. MIT — optional for a hackathon repo)*
